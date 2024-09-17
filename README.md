@@ -16,3 +16,5 @@ Developing a Nepali automatic speech recognition system with the XLS-R 300M mode
 - [Here](/Images/Training%20on%20OpenSLR/), I have some screenshots of Tensorboard logs. This is so that I won't accidentally forget where I left off. 
 - Also, my drive is completely full. So, be careful later while continuing. 
 - [HuggingFace repo link.](https://huggingface.co/iamTangsang/test-wav2vec2-large-xls-r-300m-nepali-openslr/tree/main)
+
+- September 17, Trained upto 10400 steps. I don't know where the files are. Used 3-4 accounts and all the files are jumbled here and there. So, need to recover.
