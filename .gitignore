@@ -162,3 +162,10 @@ cython_debug/
 #.idea/
 notes_about_google_accounts.txt
 notes_about_google_accounts
+OLD_README_BACKUP.md
+notebooks/openslr-step-10400
+notebooks/ASR-Notebooks/FineTuning_XLSR_300_Common_Voice_Initial.ipynb
+notebooks/ASR-Notebooks/GradIO_Interface.ipynb
+notebooks/ASR-Notebooks/Inference_Test_Open_SLR.ipynb
+notebooks/ASR-Notebooks/Inference_Test.ipynb
+images/
